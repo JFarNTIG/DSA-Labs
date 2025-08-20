@@ -1,4 +1,4 @@
-# Lab 1 - Sorting Algorithms
+# Lab 2.1 - Sorting Algorithms
 
 Copyright (C) 2025 Jacob Farnsworth.
 

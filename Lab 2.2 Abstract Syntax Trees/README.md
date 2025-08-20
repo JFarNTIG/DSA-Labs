@@ -1,4 +1,4 @@
-# Lab 2 - Abstract Syntax Trees
+# Lab 2.2 - Abstract Syntax Trees
 
 Copyright (C) 2025 Jacob Farnsworth.
 
