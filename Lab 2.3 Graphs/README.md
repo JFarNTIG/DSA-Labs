@@ -127,3 +127,15 @@ Follow the instructions for each task.
     * Traveling salesman problem. (add example_salesman.py)
       You can read about the traveling salesman problem here:
       https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.approximation.traveling_salesman.traveling_salesman_problem.html
+
+
+## AI Deklaration
+
+Användning av Al-verktyg är tillåtet i begränsad utsträckning. Du får inte klistra in uppgifter eller delar av uppgifter, men du får använda AI för att förtydliga nya ord och begrepp eller ge exempel.
+
+Här på slutet ska du ange allmänt vilka AI-verktyg som använts, hur du använt dem, och hur användbara dessa verktyg är. Om du inte använt AI-stöd så skriv bara att "AI-verktyg har ej använts".
+
+
+### STUDENTSVAR (AI-ANVÄNDNING)
+
+* 
