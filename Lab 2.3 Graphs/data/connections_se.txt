@@ -1,0 +1,46 @@
+Stockholm C,Uppsala C,0.7
+Stockholm C,Västerås C,1.34
+Stockholm C,Linköping C,1.94
+Uppsala C,Stockholm C,0.72
+Västerås C,Stockholm C,1.24
+Västerås C,Örebro C,1.20
+Örebro C,Västerås C,1.19
+Örebro C,Kristinehamn C,1.52
+Örebro C,Hallsberg C,0.5
+Kristinehamn C,Örebro C,1.50
+Kristinehamn C,Karlstad C,0.8
+Karlstad C,Kristinehamn C,0.8
+Karlstad C,Göteborg C,2.55
+Göteborg C,Karlstad C,2.50
+Göteborg C,Malmö C,2.79
+Göteborg C,Jönköping C,2.34
+Malmö C,Göteborg C,2.82
+Malmö C,Lund C,0.23
+Malmö C,Jönköping C,2.88
+Lund C,Malmö C,0.20
+Lund C,Växjö C,1.6
+Lund C,Kristianstad C,0.96
+Växjö C,Karlskrona C,1.48
+Växjö C,Lund C,1.61
+Växjö C,Linköping C,1.76
+Linköping C,Växjö C,1.72
+Linköping C,Stockholm C,1.94
+Linköping C,Oskarshamn C,4.41
+Linköping C,Jönköping C,1.5
+Kristianstad C,Lund C,0.95
+Kristianstad C,Karlskrona C,1.5
+Karlskrona C,Kristianstad C,1.53
+Karlskrona C,Växjö C,1.46
+Karlskrona C,Oskarshamn C,3.40
+Oskarshamn C,Karlskrona C,3.20
+Oskarshamn C,Linköping C,4.42
+Jönköping C,Göteborg C,2.35
+Jönköping C,Linköping C,1.5
+Jönköping C,Malmö C,2.88
+Jönköping C,Hallsberg C,2.55
+Hallsberg C,Jönköping C,2.51
+Hallsberg C,Örebro C,0.5
+Visby,Fårösund,1.2
+Visby,Klintehamn,0.76
+Fårösund,Visby,1.2
+Klintehamn,Visby,0.75
