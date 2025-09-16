@@ -79,7 +79,7 @@ For each question, remember to **justify your answer**. It's not enough to answe
     https://networkx.org/documentation/stable/reference/classes/generated/networkx.DiGraph.successors.html
     https://networkx.org/documentation/stable/reference/classes/generated/networkx.DiGraph.predecessors.html
 
-    Finally, run example_graphic.py and look at the plotted graph. Name *two* successors of Uppsala C. 
+    Finally, run example_graphic.py and look at the plotted graph. Name *two* successors of Visby. 
 
 ### YOUR ANSWERS
 
