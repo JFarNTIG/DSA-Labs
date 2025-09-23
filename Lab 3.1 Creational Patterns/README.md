@@ -121,7 +121,7 @@ Follow the instructions for each task.
 
 2. Write: What was different about adding your enemy type to the old code (`main_old.py`) versus the new code (`main_new.py` and `enemy_factory.py`)? How did it feel with vs. without the design pattern?
 
-3. In the `os_folders/` project: Find out how many times the folder manager is initialized both in the old code (`main_old.py`) and the new code (`main_new.py` and `manager_factory.py`). Hint: Try running each program with breakpoints set in `WindowsFolderManager.__init__()` and count how many times the debugger breaks. Alternatively, you could add some kind of counter in `WindowsFolderManager.__init__()` that counts how many times it's called.
+3. In the `os_folders/` project: Find out how many times the folder manager is initialized both in the old code (`main_old.py`) and the new code (`main_new.py` and `manager_holder.py`). Hint: Try running each program with breakpoints set in `WindowsFolderManager.__init__()` and count how many times the debugger breaks. Alternatively, you could add some kind of counter in `WindowsFolderManager.__init__()` that counts how many times it's called.
 
 4. Write: Based on your previous answers and the reading in the introduction, how did design patterns improve the code in the `os_folders/` project?
 

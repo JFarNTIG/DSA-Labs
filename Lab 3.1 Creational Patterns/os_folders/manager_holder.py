@@ -5,9 +5,9 @@ from windows_folders import WindowsFolderManager
 
 _created = None
 
-class ManagerFactory:
+class ManagerHolder:
     def __init__(self):
-        """Create a new ManagerFactory.
+        """Create a new ManagerHolder.
 
         Raises:
         --
@@ -21,11 +21,11 @@ class ManagerFactory:
             raise NotImplementedError("No folder manager class is available for this OS")
 
     @staticmethod
-    def get() -> "ManagerFactory":
-        """Get the singleton instance of ManagerFactory."""
+    def get() -> "ManagerHolder":
+        """Get the singleton instance of ManagerHolder."""
         global _created
         if _created is None:
-            _created = ManagerFactory()
+            _created = ManagerHolder()
         return _created
 
     def get_folder_manager(self) -> FolderManager:
